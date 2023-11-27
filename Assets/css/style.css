@@ -1,9 +1,11 @@
 body { 
     font-family: roboto;
-    margin: auto;
+    margin: 0;
     padding: 0;
 }
+.general{
 
+}
 .contacto1{
     border: solid 1px;
     border-color: #BEC1BB;
@@ -13,7 +15,8 @@ body {
     
     display: flex;
     flex-direction: column;
-    
+    border: solid;
+    border-color: #BEC1BB;
 }
 
 .contactos img{
