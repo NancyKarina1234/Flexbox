@@ -1,0 +1,78 @@
+body { 
+    font-family: roboto;
+    margin: auto;
+    padding: 0;
+}
+
+.contacto1{
+    border: solid 1px;
+    border-color: #BEC1BB;
+    
+}
+.contactos{
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.contactos img{
+    border-radius: 100px;
+    margin: auto;
+   
+}
+
+.nuevo_chat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px;
+    border-color: #BEC1BB;
+}
+.estado p{
+    font-size: 14px;
+    color: #bec1bb;
+}
+.menu {
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 60px;
+    justify-content: space-around;
+}
+
+button{
+    color:#fff;
+    width: 170px;
+    height: 30px;
+}
+.item {
+    border: solid 1px;
+    border-color: #BEC1BB;
+}
+
+   
+.mensajeria {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+
+.imagen {
+    display:flex;
+    justify-content: center;
+}
+.texto {
+    text-align: center;
+}
+p {
+    font-size: 14px;
+    font-family: open sans;
+
+}
+
+h3 {
+ font-size: 50px;
+}
